@@ -1,6 +1,0 @@
-Aclaracion TP-0:
-
-Mientras estaba resolviendolo, me encontre con la dificultad de no poder configurar mi IDE (Visual Studio 2013 Ultimate) para asegurarme de estar compilando en C11. Para avanzar y presentar lo hecho, hice la entrega del archivo .cpp con su salida correspondiente, pero me resta investigar un poco mas (el Ing. Sola me dio unos tips la 2da clase) para lograr la configuracion estipulada por la catedra.
-
-Christian Gelman.
-Leg 144-087-1
